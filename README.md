@@ -15,6 +15,4 @@ Website voor Kapsalon Inter-coiff, Rijschoolstraat 22, 3000 Leuven.
 - [ ] Toestemming voor de foto's. Foto's met kinderen heb ik bewust niet gebruikt
 
 ## Design
-Zwitsers raster: gebroken wit, inktzwart en het cyaan van hun LED-verlichting. Zware condensed letter (Archivo) en een kubuspatroon zoals op hun raam.
-
-Lokaal bekijken: `python -m http.server` in de bovenliggende map, daarna /inter-coiff/.
+Premium donker (zelfde stijl als MG Barbershop): bijna-zwarte achtergrond, Bodoni Moda + Manrope, een eigen accentkleur en een monogram-logo (`img/logo-*.svg`). Diensten, prijzen en uren staan bovenaan `script.js`.
